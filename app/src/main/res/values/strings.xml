@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">diabetes-sispak</string>
+
+    <string name="gejala_diabetes">
+        <big><b>Polyuria</b></big>
+        <br><br>
+        Polyuria atau sering buang air kecil merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        <br><br></br></br>
+        <big><b>Polydipsia</b></big>
+        <br><br>
+        Polydipsia atau rasa haus berlebihan merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        <br><br></br></br>
+        <big><b>Sudden Weight Loss</b></big>
+        <br><br>
+        Sudden Weight Loss atau penurunan berat badan secara mendadak merupakan salah satu gejala Diabetes Tipe 1</br></br>
+        <br><br></br></br>
+        <big><b>Weakness</b></big>
+        <br><br>
+        Weakness atau rasa lemas merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        <br><br></br></br>
+        <big><b>Polyphagia</b></big>
+        <br><br>
+        Polyphagia atau rasa lapar berlebih merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        <br><br></br></br>
+        <big><b>Genital Thrush</b></big>
+        <br><br>
+        Genital Thrush atau adanya penyakit jamur pada kelamin merupakan salah satu gejala umum penyakit Diabetes. Biasanya menjangkit Pria dalam
+            bentuk Impoten dan menjangkit Wanita dalam bentuk Keputihan</br></br>
+        <br><br></br></br>
+        <big><b>Visual Blurring</b></big>
+        <br><br>
+        Visual Blurring atau penglihatan buram merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        <br><br></br></br>
+        <big><b>Itching</b></big>
+        <br><br>
+        Itching atau gatal pada kulit merupakan salah satu gejala umum penyakit Diabetes. Hal ini terjadi karena
+            bentuk respon kulit terhadap kadar gula</br></br>
+        <br><br></br></br>
+        <big><b>Irritability</b></big>
+        <br><br>
+        Irritability atau iritasi merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        <br><br></br></br>
+        <big><b>Delayed Healing</b></big>
+        <br><br>
+        Delayed Healing atau penyembuhan luka yang lama merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        <br><br></br></br>
+        <big><b>Partial Paresis</b></big>
+        <br><br>
+        Partial Paresis atau mati rasa pada sebagian tubuh merupakan salah satu gejala penyakit Diabetes Tipe 2</br></br>
+        <br><br></br></br>
+        <big><b>Muscle Stiffness</b></big>
+        <br><br>
+        Muscle Stiffness atau kaku pada otot merupakan salah satu gejala penyakit Diabetes Tipe 2</br></br>
+        <br><br></br></br>
+        <big><b>Obesity</b></big>
+        <br><br>
+        Obesity atau obesitas merupakan salah satu gejala penyakit Diabetes Tipe 2</br></br>
+        <br><br></br></br>
+
+    </string>
+</resources>
