@@ -56,6 +56,9 @@
         <br><br>
         Obesity atau obesitas merupakan salah satu gejala penyakit Diabetes Tipe 2</br></br>
         <br><br></br></br>
+    </string>
 
+    <string name="penjelasan_diabetes">
+        (Aplikasi ini digunakan untuk mendeteksi dini adanya potensi terkena penyakit Diabetes atau tidak dilihat dari gejala gejala yang dialami)
     </string>
 </resources>
