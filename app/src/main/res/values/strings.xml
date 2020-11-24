@@ -1,64 +1,65 @@
 <resources>
     <string name="app_name">diabetes-sispak</string>
 
-    <string name="gejala_diabetes">
-        <big><b>Polyuria</b></big>
+<string name="gejala_diabetes">
+        <big><b>Polyuria (Banyak kencing)</b></big>
         <br><br>
-        Polyuria atau sering buang air kecil merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        Polyuria atau sering buang air kecil merupakan salah satu gejala umum penyakit Diabetes. Pada penderita diabetes, sel-sel di dalam tubuhnya tidak dapat menyerap glukosa sehingga ginjal akan mencoba untuk membuang glukosa tersebut melalui urin sebanyak mungkin. Akibat hal ini, penderita penyakit diabetes akan sering kencing dibandingkan orang normal dan bisa mengeluarkan lebih dari 5 liter air kencing sehari.</br></br>
         <br><br></br></br>
-        <big><b>Polydipsia</b></big>
+        <big><b>Polydipsia (Haus berlebihan)</b></big>
         <br><br>
-        Polydipsia atau rasa haus berlebihan merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        Polydipsia atau rasa haus berlebihan pada penderita diabetes dapat disebabkan karena seringnya buang air kecil. Karena hal ini, tubuh akan kekurangan air sehingga penderita akan merasa haus dan butuh banyak air. Rasa haus tersebut terjadi karena tubuh berusaha untuk mengisi kembali cairan tubuh yang telah hilang.</br></br>
         <br><br></br></br>
-        <big><b>Sudden Weight Loss</b></big>
+        <big><b>Sudden Weight Loss (Berat badan turun secara tiba-tiba)</b></big>
         <br><br>
-        Sudden Weight Loss atau penurunan berat badan secara mendadak merupakan salah satu gejala Diabetes Tipe 1</br></br>
+        Kenaikan kadar gula dalam tubuh juga akan mengakibatkan penurunan berat badan yang cepat karena hormon insulin tidak mendapat glukosa sebagai bahan makanan sel. Hal ini mengakibatkan tubuh akan mencari energi lain yaitu dengan memecah protein dari otot sebagai sumber energi alternatif untuk tubuh.</br></br>
         <br><br></br></br>
-        <big><b>Weakness</b></big>
+        <big><b>Weakness (Sering mengalami kelelahan)</b></big>
         <br><br>
-        Weakness atau rasa lemas merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        Penderita diabetes akan sering buang air kecil, sehingga mereka bisa pergi ke kamar mandi beberapa kali di malam hari yang dapat membuat orang tidak bisa tidur dengan nyenyak sehingga membuat mudah lelah dan cenderung mudah tersinggung.</br></br>
         <br><br></br></br>
-        <big><b>Polyphagia</b></big>
+        <big><b>Polyphagia (Lapar berlebihan)</b></big>
         <br><br>
-        Polyphagia atau rasa lapar berlebih merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        Polyphagia atau rasa lapar berlebih pada penderita diabetes muncuk karena ketika kadar gula turun, tubuh akan mengira belum diberi makan sehingga memunculkan rasa lapar untuk mendapatkan asupan glukosa yang dibutuhkan oleh sel.</br></br>
         <br><br></br></br>
-        <big><b>Genital Thrush</b></big>
+        <big><b>Genital Thrush (Tumbuh jamur pada kelamin)</b></big>
         <br><br>
-        Genital Thrush atau adanya penyakit jamur pada kelamin merupakan salah satu gejala umum penyakit Diabetes. Biasanya menjangkit Pria dalam
-            bentuk Impoten dan menjangkit Wanita dalam bentuk Keputihan</br></br>
+        Karena imun penderita diabetes menurun, hal ini dapat menyebabkan peningkatan kerentanan berbagai infeksi jamur. Jamur dan bakteri dapat tumbuh subur di lingkungan yang mengandung banyak gula.</br></br>
         <br><br></br></br>
-        <big><b>Visual Blurring</b></big>
+        <big><b>Visual Blurring (Pengelihatan buram)</b></big>
         <br><br>
-        Visual Blurring atau penglihatan buram merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        Kadar gula yang tinggi akan membuat pengelihatan kabur. Jika hal ini dibiarkan dapat menyebabkan kerusakan permanen bahkan kebutaan. Pembuluh darah yang ada di retina menjadi lemah jika mengalami hiperglikemia dan mikro-aneurisma selama bertahun tahun.</br></br>
         <br><br></br></br>
-        <big><b>Itching</b></big>
+        <big><b>Itching (Rasa gatal)</b></big>
         <br><br>
-        Itching atau gatal pada kulit merupakan salah satu gejala umum penyakit Diabetes. Hal ini terjadi karena
-            bentuk respon kulit terhadap kadar gula</br></br>
+        Kulit gatal akibat kulit kering bisa saja menjadi tanda peringatan diabetes. Tanda lain yang perlu diperhatikan adalah kulit menjadi gelap di sekitar leher atau ketiak.</br></br>
         <br><br></br></br>
-        <big><b>Irritability</b></big>
+        <big><b>Irritability (Iritasi)</b></big>
         <br><br>
-        Irritability atau iritasi merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        Kandungan glukosa yang tinggi pada urin dapat mengakibatkan daerah genital menjadi seperti sariawan pada mulut dan bisa menyebabkan pembengkakan dan gatal.</br></br>
         <br><br></br></br>
-        <big><b>Delayed Healing</b></big>
+        <big><b>Delayed Healing (Luka susah sembuh)</b></big>
         <br><br>
-        Delayed Healing atau penyembuhan luka yang lama merupakan salah satu gejala umum penyakit Diabetes</br></br>
+        Luka yang tidak kunjung sembuh dapat diakibatkan oleh kerusakan pada pembuluh darah karena jumlah glukosa yang berlebihan mengelilingi pembuluh darah dan arteri. Hal ini dapat menghambat sel progenitor endotel atau EPC yang membantu pembuluh darah untuk menyembuhkan luka.</br></br>
         <br><br></br></br>
-        <big><b>Partial Paresis</b></big>
+        <big><b>Partial Paresis (Mati rasa di sebagian tubuh)</b></big>
         <br><br>
-        Partial Paresis atau mati rasa pada sebagian tubuh merupakan salah satu gejala penyakit Diabetes Tipe 2</br></br>
+        Diabetes juga akan menyerang syaraf jika tidak segera ditangani. Tanda syaraf telah dirusak diabetes adalah mengalami kesemutan dan mati rasa di tangan dan kaki yang juga disertai rasa sakit yang membakar atau bengkak.</br></br>
         <br><br></br></br>
-        <big><b>Muscle Stiffness</b></big>
+        <big><b>Muscle Stiffness (Kekakuan otot)</b></big>
         <br><br>
-        Muscle Stiffness atau kaku pada otot merupakan salah satu gejala penyakit Diabetes Tipe 2</br></br>
+        Penderita diabetes yang tidak teratur berobat dapat membuat penyakit diabetes akan mulai menyerang syaraf penderita. Salah satu gejala yang dapat dilihat adalah rasa kram yang hebat dan kekakuan otot.</br></br>
         <br><br></br></br>
-        <big><b>Obesity</b></big>
+        <big><b>Obesity (Obesitas/kegemukan)</b></big>
         <br><br>
-        Obesity atau obesitas merupakan salah satu gejala penyakit Diabetes Tipe 2</br></br>
+        Seseorang yang mengalami obesitas semakin lama menjadi kurang sensitif terhadap insulin. karena lemak viseral pada penderita obesitas akan meningkatkan pelepasan asam lemak bebas yang menyebabkan resistensi insulin. Sel beta pankreas menjadi bekerja lebih keras untuk memproduksi insulin. Semakin lama, sel beta pankreas mengalami kelelahan dan tidak mampu lagi memproduksi insulin dalam jumlah cukup. Akibatnya, kadar gula dalam darah meningkat.</br></br>
         <br><br></br></br>
     </string>
 
     <string name="penjelasan_diabetes">
         (Aplikasi ini digunakan untuk mendeteksi dini adanya potensi terkena penyakit Diabetes atau tidak dilihat dari gejala gejala yang dialami)
     </string>
+
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
 </resources>
