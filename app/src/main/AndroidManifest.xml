@@ -16,10 +16,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainQuestion">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+        </activity>
+        <activity android:name=".MainAnswer">
+        </activity>
+        <activity android:name=".MainExplanation">
         </activity>
     </application>
 

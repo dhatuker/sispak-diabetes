@@ -42,6 +42,7 @@
             android:textSize="18sp" />
 
         <RadioGroup
+            android:id="@+id/radioKelaminGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -67,6 +68,7 @@
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioKencingGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -74,13 +76,13 @@
                 android:id="@+id/radioKencing1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioKencing2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -92,6 +94,7 @@
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioHausGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -99,13 +102,13 @@
                 android:id="@+id/radioHaus1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioHaus2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -117,6 +120,7 @@
             android:textSize="18sp" />
 
         <RadioGroup
+            android:id="@+id/radioBeratGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -124,13 +128,13 @@
                 android:id="@+id/radioBerat1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioBerat2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -142,6 +146,7 @@
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioLemasGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -149,13 +154,13 @@
                 android:id="@+id/radioLemas1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioLemas2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -167,6 +172,7 @@
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioLaparGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -174,13 +180,13 @@
                 android:id="@+id/radioLapar1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioLapar2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -192,6 +198,7 @@
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioJamurGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -199,13 +206,13 @@
                 android:id="@+id/radioJamur1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioJamur2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -217,6 +224,7 @@
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioBuramGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -224,13 +232,13 @@
                 android:id="@+id/radioBuram1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioBuram2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -242,6 +250,7 @@
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioGatalGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -249,13 +258,13 @@
                 android:id="@+id/radioGatal1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioGatal2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -267,6 +276,7 @@
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioIritasiGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -274,13 +284,13 @@
                 android:id="@+id/radioIritasi1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioIritasi2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -292,6 +302,7 @@
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioLukaGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -299,13 +310,13 @@
                 android:id="@+id/radioLuka1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioLuka2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -317,6 +328,7 @@
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioRasaGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -324,13 +336,13 @@
                 android:id="@+id/radioRasa1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioRasa2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -342,6 +354,7 @@
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioKakuGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -349,13 +362,13 @@
                 android:id="@+id/radioKaku1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioKaku2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
@@ -363,10 +376,37 @@
             android:id="@+id/textView19"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:text="Apakah saat ini anda mengalami kerontokan rambut?"
+            android:textSize="18sp"/>
+
+        <RadioGroup
+            android:id="@+id/radioRontokGroup"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RadioButton
+                android:id="@+id/radioRontok1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ya" />
+
+            <RadioButton
+                android:id="@+id/radioRontok2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tidak" />
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:text="Apakah saat ini anda mengalami obesitas (berat badan berlebih)?"
             android:textSize="18sp"/>
 
         <RadioGroup
+            android:id="@+id/radioObesitasGroup"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -374,18 +414,18 @@
                 android:id="@+id/radioObesitas1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ya" />
+                android:text="Ya" />
 
             <RadioButton
                 android:id="@+id/radioObesitas2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/tidak" />
+                android:text="Tidak" />
 
         </RadioGroup>
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/buttonPrediksi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="LAKUKAN PREDIKSI" />
