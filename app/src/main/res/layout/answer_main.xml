@@ -20,27 +20,29 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="148dp"
-        android:layout_height="30dp"
+        android:layout_width="240dp"
+        android:layout_height="50dp"
         android:text="Hasil Diagnosa Anda :"
-        app:layout_constraintBottom_toTopOf="@+id/textView4"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/teksHasil"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.786" />
+        app:layout_constraintVertical_bias="0.849" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/teksHasil"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="436dp"
-        android:text="Positif / Negatif"
+        android:text="Pandhaqu"
+        android:textSize="30sp"
         app:layout_constraintBottom_toTopOf="@+id/buttonGejala"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.07" />
 
     <Button
         android:id="@+id/buttonGejala"

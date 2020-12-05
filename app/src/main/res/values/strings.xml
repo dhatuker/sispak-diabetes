@@ -1,60 +1,119 @@
 <resources>
     <string name="app_name">diabetes-sispak</string>
 
-<string name="gejala_diabetes">
+        <string name="judul_polyuria">
         <big><b>Polyuria (Banyak kencing)</b></big>
-        <br><br>
-        Polyuria atau sering buang air kecil merupakan salah satu gejala umum penyakit Diabetes. Pada penderita diabetes, sel-sel di dalam tubuhnya tidak dapat menyerap glukosa sehingga ginjal akan mencoba untuk membuang glukosa tersebut melalui urin sebanyak mungkin. Akibat hal ini, penderita penyakit diabetes akan sering kencing dibandingkan orang normal dan bisa mengeluarkan lebih dari 5 liter air kencing sehari.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_polyuria">
+        Polyuria atau sering buang air kecil merupakan salah satu gejala umum penyakit Diabetes. Pada penderita diabetes, sel-sel di dalam tubuhnya tidak dapat menyerap glukosa sehingga ginjal akan mencoba untuk membuang glukosa tersebut melalui urin sebanyak mungkin. Akibat hal ini, penderita penyakit diabetes akan sering kencing dibandingkan orang normal dan bisa mengeluarkan lebih dari 5 liter air kencing sehari.
+        </string>
+
+        <string name="judul_polydipsia">
         <big><b>Polydipsia (Haus berlebihan)</b></big>
-        <br><br>
-        Polydipsia atau rasa haus berlebihan pada penderita diabetes dapat disebabkan karena seringnya buang air kecil. Karena hal ini, tubuh akan kekurangan air sehingga penderita akan merasa haus dan butuh banyak air. Rasa haus tersebut terjadi karena tubuh berusaha untuk mengisi kembali cairan tubuh yang telah hilang.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_polydipsia">
+        Polydipsia atau rasa haus berlebihan pada penderita diabetes dapat disebabkan karena seringnya buang air kecil. Karena hal ini, tubuh akan kekurangan air sehingga penderita akan merasa haus dan butuh banyak air. Rasa haus tersebut terjadi karena tubuh berusaha untuk mengisi kembali cairan tubuh yang telah hilang.
+        </string>
+
+        <string name="judul_swl">
         <big><b>Sudden Weight Loss (Berat badan turun secara tiba-tiba)</b></big>
-        <br><br>
-        Kenaikan kadar gula dalam tubuh juga akan mengakibatkan penurunan berat badan yang cepat karena hormon insulin tidak mendapat glukosa sebagai bahan makanan sel. Hal ini mengakibatkan tubuh akan mencari energi lain yaitu dengan memecah protein dari otot sebagai sumber energi alternatif untuk tubuh.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_swl">
+        Kenaikan kadar gula dalam tubuh juga akan mengakibatkan penurunan berat badan yang cepat karena hormon insulin tidak mendapat glukosa sebagai bahan makanan sel. Hal ini mengakibatkan tubuh akan mencari energi lain yaitu dengan memecah protein dari otot sebagai sumber energi alternatif untuk tubuh.
+        </string>
+
+        <string name="judul_weakness">
         <big><b>Weakness (Sering mengalami kelelahan)</b></big>
-        <br><br>
-        Penderita diabetes akan sering buang air kecil, sehingga mereka bisa pergi ke kamar mandi beberapa kali di malam hari yang dapat membuat orang tidak bisa tidur dengan nyenyak sehingga membuat mudah lelah dan cenderung mudah tersinggung.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_weakness">
+        Penderita diabetes akan sering buang air kecil, sehingga mereka bisa pergi ke kamar mandi beberapa kali di malam hari yang dapat membuat orang tidak bisa tidur dengan nyenyak sehingga membuat mudah lelah dan cenderung mudah tersinggung.
+        </string>
+
+        <string name="judul_polyphagia">
         <big><b>Polyphagia (Lapar berlebihan)</b></big>
-        <br><br>
-        Polyphagia atau rasa lapar berlebih pada penderita diabetes muncuk karena ketika kadar gula turun, tubuh akan mengira belum diberi makan sehingga memunculkan rasa lapar untuk mendapatkan asupan glukosa yang dibutuhkan oleh sel.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_polyphagia">
+        Polyphagia atau rasa lapar berlebih pada penderita diabetes muncuk karena ketika kadar gula turun, tubuh akan mengira belum diberi makan sehingga memunculkan rasa lapar untuk mendapatkan asupan glukosa yang dibutuhkan oleh sel.
+        </string>
+
+        <string name="judul_genital">
         <big><b>Genital Thrush (Tumbuh jamur pada kelamin)</b></big>
-        <br><br>
-        Karena imun penderita diabetes menurun, hal ini dapat menyebabkan peningkatan kerentanan berbagai infeksi jamur. Jamur dan bakteri dapat tumbuh subur di lingkungan yang mengandung banyak gula.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_genital">
+        Karena imun penderita diabetes menurun, hal ini dapat menyebabkan peningkatan kerentanan berbagai infeksi jamur. Jamur dan bakteri dapat tumbuh subur di lingkungan yang mengandung banyak gula.
+        </string>
+
+        <string name="judul_vb">
         <big><b>Visual Blurring (Pengelihatan buram)</b></big>
-        <br><br>
-        Kadar gula yang tinggi akan membuat pengelihatan kabur. Jika hal ini dibiarkan dapat menyebabkan kerusakan permanen bahkan kebutaan. Pembuluh darah yang ada di retina menjadi lemah jika mengalami hiperglikemia dan mikro-aneurisma selama bertahun tahun.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_vb">
+        Kadar gula yang tinggi akan membuat pengelihatan kabur. Jika hal ini dibiarkan dapat menyebabkan kerusakan permanen bahkan kebutaan. Pembuluh darah yang ada di retina menjadi lemah jika mengalami hiperglikemia dan mikro-aneurisma selama bertahun tahun.
+        </string>
+
+        <string name="judul_itching">
         <big><b>Itching (Rasa gatal)</b></big>
-        <br><br>
-        Kulit gatal akibat kulit kering bisa saja menjadi tanda peringatan diabetes. Tanda lain yang perlu diperhatikan adalah kulit menjadi gelap di sekitar leher atau ketiak.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_itching">
+        Kulit gatal akibat kulit kering bisa saja menjadi tanda peringatan diabetes. Tanda lain yang perlu diperhatikan adalah kulit menjadi gelap di sekitar leher atau ketiak.
+        </string>
+
+        <string name="judul_irritability">
         <big><b>Irritability (Iritasi)</b></big>
-        <br><br>
-        Kandungan glukosa yang tinggi pada urin dapat mengakibatkan daerah genital menjadi seperti sariawan pada mulut dan bisa menyebabkan pembengkakan dan gatal.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_irritability">
+        Kandungan glukosa yang tinggi pada urin dapat mengakibatkan daerah genital menjadi seperti sariawan pada mulut dan bisa menyebabkan pembengkakan dan gatal.
+        </string>
+
+        <string name="judul_dh">
         <big><b>Delayed Healing (Luka susah sembuh)</b></big>
-        <br><br>
-        Luka yang tidak kunjung sembuh dapat diakibatkan oleh kerusakan pada pembuluh darah karena jumlah glukosa yang berlebihan mengelilingi pembuluh darah dan arteri. Hal ini dapat menghambat sel progenitor endotel atau EPC yang membantu pembuluh darah untuk menyembuhkan luka.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_dh">
+        Luka yang tidak kunjung sembuh dapat diakibatkan oleh kerusakan pada pembuluh darah karena jumlah glukosa yang berlebihan mengelilingi pembuluh darah dan arteri. Hal ini dapat menghambat sel progenitor endotel atau EPC yang membantu pembuluh darah untuk menyembuhkan luka.
+        </string>
+
+        <string name="judul_pp">
         <big><b>Partial Paresis (Mati rasa di sebagian tubuh)</b></big>
-        <br><br>
-        Diabetes juga akan menyerang syaraf jika tidak segera ditangani. Tanda syaraf telah dirusak diabetes adalah mengalami kesemutan dan mati rasa di tangan dan kaki yang juga disertai rasa sakit yang membakar atau bengkak.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_pp">
+        Diabetes juga akan menyerang syaraf jika tidak segera ditangani. Tanda syaraf telah dirusak diabetes adalah mengalami kesemutan dan mati rasa di tangan dan kaki yang juga disertai rasa sakit yang membakar atau bengkak.
+        </string>
+
+        <string name="judul_ms">
         <big><b>Muscle Stiffness (Kekakuan otot)</b></big>
-        <br><br>
-        Penderita diabetes yang tidak teratur berobat dapat membuat penyakit diabetes akan mulai menyerang syaraf penderita. Salah satu gejala yang dapat dilihat adalah rasa kram yang hebat dan kekakuan otot.</br></br>
-        <br><br></br></br>
+        </string>
+
+        <string name="isi_ms">
+        Penderita diabetes yang tidak teratur berobat dapat membuat penyakit diabetes akan mulai menyerang syaraf penderita. Salah satu gejala yang dapat dilihat adalah rasa kram yang hebat dan kekakuan otot.
+        </string>
+
+        <string name="judul_rontok">
+        <big><b>Alopecia (Rambut rontok)</b></big>
+        </string>
+
+        <string name="isi_rontok">
+        Alopecia merupakan sistem kekebalan tubuh menyerang folikel rambut, yang menyebabkan bercaknya rambut rontok di kepala dan di bagian tubuh lainnya. Hal ini disebabkan karena ketika seseorang tidak memiliki insulin, atau tidak bisa dipergunakan secara efektif, gula darah akan menumpuk di dalam darah. Akibatnya, gula yang menumpuk dapat merusak seluruh organ, termasuk pembuluh darah. Sehingga bila terjadi perusakan di dalam pembuluh darah, akan memengaruhi folikel rambut dan mengganggu siklus pertumbuhan rambut secara normal.
+        </string>
+
+        <string name="judul_obesitas">
         <big><b>Obesity (Obesitas/kegemukan)</b></big>
-        <br><br>
-        Seseorang yang mengalami obesitas semakin lama menjadi kurang sensitif terhadap insulin. karena lemak viseral pada penderita obesitas akan meningkatkan pelepasan asam lemak bebas yang menyebabkan resistensi insulin. Sel beta pankreas menjadi bekerja lebih keras untuk memproduksi insulin. Semakin lama, sel beta pankreas mengalami kelelahan dan tidak mampu lagi memproduksi insulin dalam jumlah cukup. Akibatnya, kadar gula dalam darah meningkat.</br></br>
-        <br><br></br></br>
-    </string>
+        </string>
+
+        <string name="isi_obesitas">
+        Seseorang yang mengalami obesitas semakin lama menjadi kurang sensitif terhadap insulin. karena lemak viseral pada penderita obesitas akan meningkatkan pelepasan asam lemak bebas yang menyebabkan resistensi insulin. Sel beta pankreas menjadi bekerja lebih keras untuk memproduksi insulin. Semakin lama, sel beta pankreas mengalami kelelahan dan tidak mampu lagi memproduksi insulin dalam jumlah cukup. Akibatnya, kadar gula dalam darah meningkat.
+        </string>
+
+
 
     <string name="penjelasan_diabetes">
         (Aplikasi ini digunakan untuk mendeteksi dini adanya potensi terkena penyakit Diabetes atau tidak dilihat dari gejala gejala yang dialami)

@@ -2,18 +2,22 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
+from os.path import dirname, join
 
 def random_forest(input):
-    # coba nanti pathnya diganti '../app/res/raw/diabetes_data_upload.csv', kalo masih gabisa coba ditambah os yang add path
-    dataset = pd.read_csv('E:/Kuliah Semester 7/Sistem Pakar/RF/diabetes_data_upload.csv')
+    # coba nanti pathnya diganti '../res/raw/diabetes_data_upload.csv', kalo masih gabisa coba ditambah os yang add path
+    filename = join(dirname(__file__), 'diabetes_data_upload.csv')
+    dataset = pd.read_csv(filename)
     data = dataset.replace({'Yes': 1, 'No': 0, 'Male': 1, 'Female': 0, 'Positive': 1, 'Negative': 0})
 
-    x_train = data.iloc[1:501, 0:16].values
-    y_train = data.iloc[1:501, 16].values
+    input1 = [input]
+
+    x_train = data.iloc[0:500, 0:16].values
+    y_train = data.iloc[0:500, 16].values
 
     sc = StandardScaler()
     x_train = sc.fit_transform(x_train)
-    x_test = sc.transform(input)
+    x_test = sc.transform(input1)
 
     for i in range(1, 5):
         rc = RandomForestClassifier(n_estimators=i, criterion='entropy', random_state=0)
@@ -28,5 +32,5 @@ def random_forest(input):
     return hasil
 
 # ini script buat ngejalanin, x_test harus bentuknya 2D jadi kurungnya ada 2
-x_test = [[66,  1,  1,  0,  1,  0,  0,  1,  0,  1,  1,  0,  0,  0,  1,  0]]
-print(random_forest(x_test))
+#x_test = [[66,  1,  1,  0,  1,  0,  0,  1,  0,  1,  1,  0,  0,  0,  1,  0]]
+#print(random_forest(x_test))

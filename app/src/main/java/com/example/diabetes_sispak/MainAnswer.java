@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -14,19 +15,30 @@ import com.chaquo.python.android.AndroidPlatform;
 public class MainAnswer extends AppCompatActivity {
 
     private Button button;
+    private TextView teksHasil;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.answer_main);
 
+        button = (Button)findViewById(R.id.buttonGejala);
+        teksHasil = (TextView)findViewById(R.id.teksHasil);
+
+        Bundle extras = getIntent().getExtras();
+
+        int[] dataTesting = extras.getIntArray("dataTesting");
+
         if(!Python.isStarted())
             Python.start(new AndroidPlatform(this));
 
         Python py = Python.getInstance();
-        PyObject pyobj = py.getModule("randomForest");
+        final PyObject pyobj = py.getModule("randomForest");
 
-        button = (Button)findViewById(R.id.buttonGejala);
+        PyObject obj = pyobj.callAttr("random_forest", dataTesting);
+
+        teksHasil.setText(obj.toString());
+
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

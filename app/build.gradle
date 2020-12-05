@@ -10,6 +10,14 @@ android {
     defaultConfig {
         applicationId "com.example.diabetes_sispak"
 
+        python{
+            pip{
+                install "numpy"
+                install "pandas"
+                install "scikit-learn"
+            }
+        }
+
         sourceSets{
             main{
                 python{
