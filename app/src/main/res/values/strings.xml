@@ -66,11 +66,11 @@
         </string>
 
         <string name="judul_irritability">
-        <big><b>Irritability (Iritasi)</b></big>
+        <big><b>Irritability (Cepat Naik Darah)</b></big>
         </string>
 
         <string name="isi_irritability">
-        Kandungan glukosa yang tinggi pada urin dapat mengakibatkan daerah genital menjadi seperti sariawan pada mulut dan bisa menyebabkan pembengkakan dan gatal.
+        Reaksi Hipoglikemia (kadar gula dalam darah sangat rendah) dapat menyebabkan seseorang menjadi mudah marah. Hipoglikemia terjadi ketika terdapat insulin yang terlalu banyak sehingga menyebabkan penurunan gula darah.
         </string>
 
         <string name="judul_dh">
@@ -116,7 +116,7 @@
 
 
     <string name="penjelasan_diabetes">
-        (Aplikasi ini digunakan untuk mendeteksi dini adanya potensi terkena penyakit Diabetes atau tidak dilihat dari gejala gejala yang dialami)
+        Aplikasi ini digunakan untuk mendeteksi dini adanya potensi terkena penyakit Diabetes atau tidak dilihat dari gejala gejala yang dialami.
     </string>
 
     <string name="ya">Ya</string>
