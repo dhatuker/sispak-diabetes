@@ -272,7 +272,7 @@
             android:id="@+id/textView15"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Apakah anda mengalami iritasi pada kulit?"
+            android:text="Apakah anda merasa cepat marah (cepat naik darah)?"
             android:textSize="18sp"/>
 
         <RadioGroup
